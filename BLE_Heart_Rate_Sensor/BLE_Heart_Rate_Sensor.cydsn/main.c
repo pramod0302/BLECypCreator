@@ -24,7 +24,7 @@
 
 volatile uint32 mainTimer = 0;
 CYBLE_API_RESULT_T apiResult;
-
+uint8_t data[4];
 
 /*******************************************************************************
 * Function Name: AppCallBack()
@@ -211,6 +211,7 @@ void AppCallBack(uint32 event, void* eventParam)
             DBG_PRINTF("CYBLE_EVT_GATT_WRITE_REQ: %x = ",((CYBLE_GATTS_WRITE_REQ_PARAM_T *)eventParam)->handleValPair.attrHandle);
             for(i = 0; i < ((CYBLE_GATTS_WRITE_REQ_PARAM_T *)eventParam)->handleValPair.value.len; i++)
             {
+                data[i] = ((CYBLE_GATTS_WRITE_REQ_PARAM_T *)eventParam)->handleValPair.value.val[i];
                 DBG_PRINTF("%2.2x ", ((CYBLE_GATTS_WRITE_REQ_PARAM_T *)eventParam)->handleValPair.value.val[i]);
             }
             DBG_PRINTF("\r\n");
@@ -414,8 +415,8 @@ int main()
         /* CyBle_ProcessEvents() allows BLE stack to process pending events */
         CyBle_ProcessEvents();
 
-        /* To achieve low power in the device */
-        LowPowerImplementation();
+//        /* To achieve low power in the device */
+//        LowPowerImplementation();
 
         /***********************************************************************
         * Wait for connection established with Central device

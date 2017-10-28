@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Source Files\main.c">
 <ExpandedNodeIds>
 <v>BLE_Heart_Rate_Sensor</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor</v>
@@ -38,6 +38,146 @@
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Source Files\hrss.c</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Source Files\main.c</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor.pdf</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC\ADC.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC\ADC.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC\ADC_INT.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC\ADC_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_intClock</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_IRQ</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Advertising_LED</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Advertising_LED\Advertising_LED.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Advertising_LED\Advertising_LED.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Advertising_LED\Advertising_LED_aliases.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Advertising_LED\Advertising_LED_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\cmsis_armcc.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\cmsis_gcc.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\core_cm0.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\core_cm0_psoc4.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\core_cmFunc.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\core_cmInstr.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\CyBootAsmGnu.s</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\CyBootAsmIar.s</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\CyBootAsmRv.s</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\CyFlash.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\CyFlash.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\CyLib.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\CyLib.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\cypins.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\cyPm.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\cyPm.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\cytypes.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\cyutils.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_lfclk</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_lfclk\CyLFClk.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_lfclk\CyLFClk.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_bas.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_bas.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_custom.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_custom.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_dis.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_dis.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_eventHandler.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_eventHandler.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_gatt.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_gatt.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_HAL_INT.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_HAL_PVT.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_HAL_PVT.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_hrs.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_hrs.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_Stack.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_STACK_PVT.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_StackGap.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_StackGatt.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_StackGattClient.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_StackGattDb.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_StackGattServer.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_StackHostMain.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE\CYBLE_StackL2cap.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE_bless_isr</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE_bless_isr\CYBLE_bless_isr.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\CYBLE_bless_isr\CYBLE_bless_isr.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Disconnect_LED</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Disconnect_LED\Disconnect_LED.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Disconnect_LED\Disconnect_LED.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Disconnect_LED\Disconnect_LED_aliases.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Disconnect_LED\Disconnect_LED_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\LowPower_LED</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\LowPower_LED\LowPower_LED.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\LowPower_LED\LowPower_LED.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\LowPower_LED\LowPower_LED_aliases.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\LowPower_LED\LowPower_LED_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\SW2</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\SW2\SW2.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\SW2\SW2.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\SW2\SW2_aliases.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\SW2\SW2_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_BOOT.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_BOOT.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_PINS.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_PVT.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_SPI_UART.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_SPI_UART.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_SPI_UART_INT.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_SPI_UART_PVT.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_UART.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB\UART_DEB_UART_BOOT.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_rx</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_rx\UART_DEB_rx.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_rx\UART_DEB_rx.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_rx\UART_DEB_rx_aliases.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_rx\UART_DEB_rx_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_SCBCLK</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_SCBCLK\UART_DEB_SCBCLK.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_SCBCLK\UART_DEB_SCBCLK.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_tx</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_tx\UART_DEB_tx.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_tx\UART_DEB_tx.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_tx\UART_DEB_tx_aliases.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\UART_DEB_tx\UART_DEB_tx_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Vref</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Vref\Vref.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Vref\Vref.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Vref\Vref_aliases.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Vref\Vref_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Wakeup_Interrupt</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Wakeup_Interrupt\Wakeup_Interrupt.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Wakeup_Interrupt\Wakeup_Interrupt.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cycodeshareexport.ld</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cycodeshareimport.ld</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cycodeshareimport.scat</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cydisabledsheets.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cyfitter.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cyfitter_cfg.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cyfitter_cfg.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cyfittergnu.inc</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cyfitteriar.inc</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cyfitterrv.inc</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cymetadata.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\project.h</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
 <v>BLE_Heart_Rate_Sensor</v>
@@ -63,6 +203,29 @@
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Source Files\hrss.c</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Source Files\main.c</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor.pdf</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC\ADC.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC\ADC.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC\ADC_INT.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC\ADC_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_intClock</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_intClock\ADC_intClock.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_IRQ</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\ADC_IRQ\ADC_IRQ.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Advertising_LED</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Advertising_LED\Advertising_LED.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Advertising_LED\Advertising_LED.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Advertising_LED\Advertising_LED_aliases.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Advertising_LED\Advertising_LED_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\cm0gcc.ld</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\Cm0Iar.icf</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\Cm0RealView.scat</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\cy_boot\Cm0Start.c</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -83,6 +246,64 @@
 <ExpandedNodeIds>
 <v>BLE_Heart_Rate_Sensor</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_INT.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_intClock.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Advertising_LED.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Advertising_LED_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\bass.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_bas.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_bless_isr.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_custom.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_dis.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_eventHandler.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_gatt.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_HAL_INT.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_HAL_PVT.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_hrs.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\debug.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Disconnect_LED.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Disconnect_LED_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\hrss.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\LowPower_LED.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\LowPower_LED_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\SW2.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\SW2_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_BOOT.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_rx.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_rx_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_SCBCLK.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_SPI_UART.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_SPI_UART_INT.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_tx.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_tx_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_UART.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_UART_BOOT.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Vref.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Vref_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Wakeup_Interrupt.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\BLE_Heart_Rate_Sensor.elf</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\BLE_Heart_Rate_Sensor.hex</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\BLE_Heart_Rate_Sensor.map</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor.gpdsc</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor.rpt</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor_timing.html</v>
@@ -90,9 +311,50 @@
 <VisibleNodeIds>
 <v>BLE_Heart_Rate_Sensor</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor</v>
-<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor.gpdsc</v>
-<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor.rpt</v>
-<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor_timing.html</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_INT.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_intClock.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\ADC_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Advertising_LED.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Advertising_LED_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\bass.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Cm0Start.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_bas.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_bless_isr.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_custom.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_dis.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_eventHandler.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_gatt.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_HAL_INT.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_HAL_PVT.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CYBLE_hrs.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CyFlash.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLFClk.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\CyLib.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\cymetadata.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\cyPm.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\cyutils.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\debug.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Disconnect_LED.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Disconnect_LED_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\hrss.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\LowPower_LED.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\LowPower_LED_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\SW2.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\SW2_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_BOOT.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_PM.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_rx.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -152,7 +414,17 @@
 </userData>
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
-<OpenDocs />
+<OpenDocs>
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1353, 892" SelectedTabbedMdiWindow="ba97368c-fda2-4410-97fe-5240302fc0fa"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="07646946-9b1b-42a1-8346-fed570c31af4" /><DocumentWindow Key="a2aec76a-c793-43a6-85ba-7cf1dc1aee66" Guid="3afc51b9-85ad-40bb-8d2e-2d5449a82b8e" /><DocumentWindow Key="3d82e67e-b27c-48c3-980f-3b43f7bc8773" Guid="ba97368c-fda2-4410-97fe-5240302fc0fa" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
