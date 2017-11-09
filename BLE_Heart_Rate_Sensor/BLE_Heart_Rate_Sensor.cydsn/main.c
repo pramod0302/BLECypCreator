@@ -26,6 +26,47 @@ volatile uint32 mainTimer = 0;
 CYBLE_API_RESULT_T apiResult;
 uint8_t data[4];
 
+void LedWrite(uint8_t command)
+{
+
+    switch(command)
+    {
+        case 0x01:
+            Disconnect_LED_Write(LED_OFF);
+            Advertising_LED_Write(LED_ON);
+            LowPower_LED_Write(LED_OFF);
+        break;
+        case 0x02:
+            Disconnect_LED_Write(LED_ON);
+            Advertising_LED_Write(LED_OFF);
+            LowPower_LED_Write(LED_OFF);
+        break;
+        case 0x03:
+            Disconnect_LED_Write(LED_OFF);
+            Advertising_LED_Write(LED_OFF);
+            LowPower_LED_Write(LED_ON);
+        break;
+        default:
+        break;
+    }
+}
+
+void ToggleRelay(uint8_t command)
+{
+
+    switch(command)
+    {
+        case 0x01:
+            Relay_Write(1);
+        break;
+        case 0x03:
+            Relay_Write(0);
+        break;
+        default:
+        break;
+    }
+}
+
 /*******************************************************************************
 * Function Name: AppCallBack()
 ********************************************************************************
@@ -214,6 +255,18 @@ void AppCallBack(uint32 event, void* eventParam)
                 data[i] = ((CYBLE_GATTS_WRITE_REQ_PARAM_T *)eventParam)->handleValPair.value.val[i];
                 DBG_PRINTF("%2.2x ", ((CYBLE_GATTS_WRITE_REQ_PARAM_T *)eventParam)->handleValPair.value.val[i]);
             }
+            LedWrite(data[1]);
+            DBG_PRINTF("\r\n");
+            break;
+            
+        case CYBLE_EVT_GATTS_WRITE_CMD_REQ:
+            DBG_PRINTF("CYBLE_EVT_GATT_WRITE_REQ: %x = ",((CYBLE_GATTS_WRITE_REQ_PARAM_T *)eventParam)->handleValPair.attrHandle);
+            for(i = 0; i < ((CYBLE_GATTS_WRITE_REQ_PARAM_T *)eventParam)->handleValPair.value.len; i++)
+            {
+                data[i] = ((CYBLE_GATTS_WRITE_REQ_PARAM_T *)eventParam)->handleValPair.value.val[i];
+                DBG_PRINTF("%2.2x ", ((CYBLE_GATTS_WRITE_REQ_PARAM_T *)eventParam)->handleValPair.value.val[i]);
+            }
+            ToggleRelay(data[1]);
             DBG_PRINTF("\r\n");
             break;
 
@@ -385,6 +438,7 @@ int main()
     Disconnect_LED_Write(LED_OFF);
     Advertising_LED_Write(LED_OFF);
     LowPower_LED_Write(LED_OFF);
+    Relay_Write(1);
 
     /* Start CYBLE component and register generic event handler */
     apiResult = CyBle_Start(AppCallBack);

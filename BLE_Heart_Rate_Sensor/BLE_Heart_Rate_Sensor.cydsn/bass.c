@@ -213,7 +213,7 @@ void MeasureBattery(void)
         }
         else
         {
-            LowPower_LED_Write(LED_OFF);
+//            LowPower_LED_Write(LED_OFF);
         }
     #endif /* (BAS_MEASURE_LP_LED != 0u) */
     

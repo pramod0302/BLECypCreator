@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Source Files\main.c">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor.cydwr">
 <ExpandedNodeIds>
 <v>BLE_Heart_Rate_Sensor</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor</v>
@@ -122,6 +122,11 @@
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\LowPower_LED\LowPower_LED.h</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\LowPower_LED\LowPower_LED_aliases.h</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\LowPower_LED\LowPower_LED_PM.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Relay</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Relay\Relay.c</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Relay\Relay.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Relay\Relay_aliases.h</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\Relay\Relay_PM.c</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\SW2</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\SW2\SW2.c</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\Generated_Source\PSoC4\SW2\SW2.h</v>
@@ -284,6 +289,8 @@
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\LowPower_LED.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\LowPower_LED_PM.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Relay.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Relay_PM.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\SW2.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\SW2_PM.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB.lst</v>
@@ -349,12 +356,12 @@
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\LowPower_LED.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\LowPower_LED_PM.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\main.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Relay.lst</v>
+<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\Relay_PM.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\SW2.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\SW2_PM.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB.lst</v>
 <v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_BOOT.lst</v>
-<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_PM.lst</v>
-<v>BLE_Heart_Rate_Sensor\BLE_Heart_Rate_Sensor\CortexM0\ARM_GCC_493\Debug\Listing Files\UART_DEB_rx.lst</v>
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 </TreeStates>
@@ -417,6 +424,18 @@
 <OpenDocs>
 <name v=".\BLE_Heart_Rate_Sensor.cydsn\TopDesign\TopDesign.cysch" />
 <name v=".\BLE_Heart_Rate_Sensor.cydsn\main.c" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\bass.c" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE_Stack.h" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE_gatt.h" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE_gatt.c" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE_eventHandler.c" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE_dis.c" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE_StackGattClient.h" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE.h" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE_StackGatt.h" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE_bas.c" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE_hrs.c" />
+<name v=".\BLE_Heart_Rate_Sensor.cydsn\Generated_Source\PSoC4\CYBLE_eventHandler.h" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -424,7 +443,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1353, 892" SelectedTabbedMdiWindow="ba97368c-fda2-4410-97fe-5240302fc0fa"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="07646946-9b1b-42a1-8346-fed570c31af4" /><DocumentWindow Key="a2aec76a-c793-43a6-85ba-7cf1dc1aee66" Guid="3afc51b9-85ad-40bb-8d2e-2d5449a82b8e" /><DocumentWindow Key="3d82e67e-b27c-48c3-980f-3b43f7bc8773" Guid="ba97368c-fda2-4410-97fe-5240302fc0fa" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="884, 676" SelectedTabbedMdiWindow="3defbc96-fa34-475c-aa2f-89de9f075030"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="07646946-9b1b-42a1-8346-fed570c31af4" /><DocumentWindow Key="04a942a9-48df-496c-a334-edde755d6314" Guid="5e1346a4-a0f0-46c3-9ebb-13bd818a754a" /><DocumentWindow Key="2fc1290d-5676-4a18-aa95-22a3330b52a8" Guid="3defbc96-fa34-475c-aa2f-89de9f075030" /><DocumentWindow Key="952064a4-16fa-4449-a7d6-972b9dff686b" Guid="54ac32e9-7bb4-4cad-ba6c-9d2687b08dc8" /><DocumentWindow Key="4a4e96d8-572c-4ea8-802a-63420d54737a" Guid="41e983b3-d4f3-4f8d-8089-82aa26460b28" /><DocumentWindow Key="b8293703-5874-4a8b-83c7-4747b341422e" Guid="ba2aaf6f-d35a-46e3-84d9-d2d4fcb01604" /><DocumentWindow Key="a5824a02-dc2d-482f-a970-3d637c97e2bc" Guid="45a39ef7-2870-4169-9049-41ab37fe67cd" /><DocumentWindow Key="48dc0c87-aa74-45a9-88d8-7436487df188" Guid="01006399-f441-4ee2-b00b-e27a1a3355d0" /><DocumentWindow Key="a2189c4c-2084-4b92-8d1c-366ef8ff2617" Guid="67588f49-ab8b-4efb-953f-94c8a68fd7ed" /><DocumentWindow Key="8af9eb59-54a0-45b1-9c37-cdc080afbf5c" Guid="ad2cf186-41f1-43e5-acc7-8cc701acc760" /><DocumentWindow Key="90f09248-d262-4a2e-87a7-7a94ad41b7cd" Guid="1f57a47f-ee6c-4bc3-b48b-3ea9af114bb6" /><DocumentWindow Key="82bd0412-12d4-44c8-9244-652f254ef0f7" Guid="a050688b-5e5e-4c0a-af3f-beee5a8d76ea" /><DocumentWindow Key="1f006546-0b37-47f8-8628-9e9669b16039" Guid="e282bfce-6eb4-4b8b-9fda-ef65e2f84a35" /><DocumentWindow Key="99637c66-5e6c-493e-affe-bfb9b1e57af5" Guid="d2e55e25-f915-43b8-94f9-a75d05227529" /><DocumentWindow Key="8877d1d4-b74b-4934-b160-04ea2b840a73" Guid="c4cfa718-c13d-4205-b1b6-f81204aeeb3c" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

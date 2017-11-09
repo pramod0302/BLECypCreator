@@ -30,6 +30,7 @@
       <Data key="bc49b3f0-885c-4b8f-8f85-d499039961d1" value="Notification_LED" />
       <Data key="c8b14503-611e-4c93-9dce-3a4c1f060fd6" value="SW2" />
       <Data key="d705aeb9-258f-430b-ae5b-ef2b8547e6d1" value="Advertising_LED" />
+      <Data key="e851a3b9-efb8-48be-bbb8-b303b216c393" value="Relay" />
     </Group>
   </Group>
   <Group key="FlashSecurity">
@@ -1553,6 +1554,11 @@
     <Group key="d705aeb9-258f-430b-ae5b-ef2b8547e6d1">
       <Group key="0">
         <Data key="Port Format" value="3,6" />
+      </Group>
+    </Group>
+    <Group key="e851a3b9-efb8-48be-bbb8-b303b216c393">
+      <Group key="0">
+        <Data key="Port Format" value="1,0" />
       </Group>
     </Group>
     <Group key="UnAssigned Pins" />
